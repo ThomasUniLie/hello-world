@@ -5,3 +5,4 @@ I am doing this project as I am playing around with some GitHub data. I have som
 I am aiming to connect various mining techniques in order to understand the logics behind work in online communities.
 
 
+Why is this shit not working?
